@@ -14,6 +14,8 @@ namespace TestGit
                 hhdhg gf hgf g hg 
 
                // change in feature-c vvjvjf  gf jg
+               // gfhfghgfh 
+               ghfgfh g gfj 
         }
     }
 }
