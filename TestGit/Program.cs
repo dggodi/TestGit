@@ -12,7 +12,7 @@ namespace TestGit
         {
             Master
 
-                master changes
+               // change in feature-c
         }
     }
 }
