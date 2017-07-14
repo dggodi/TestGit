@@ -11,7 +11,10 @@ namespace TestGit
         static void Main(string[] args)
         {
             Master vjfcgcg jfj  jf jf
-                hhdhg gf hgf g hg 
+                hhdhg gf hgf g hg hfg gfhg 
+                g jghj 
+                hj ghj 
+                gh ghjgh
 
                // change in feature-c vvjvjf  gf jg
                // gfhfghgfh 
