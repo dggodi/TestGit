@@ -10,7 +10,7 @@ namespace TestGit
     {
         static void Main(string[] args)
         {
-            Team A
+            Team A ok
         }
     }
 }
